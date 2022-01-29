@@ -1,5 +1,7 @@
 # rsyslog_and_mikrotik
 
+# rsyslog
+
 1 - Update e upgrade sua distro, no caso, utilizei Ubuntu 20.10
 
 `apt -y update && apt -y upgrade`
@@ -52,6 +54,14 @@ Para testarmos vamos executar:
 Caso apresente erro no arquivo, crie-o novamente utilizando outro console ssh como o Putty, pois pode haver problema de sintaxe com o Unix
 
 Ok, tudo configurado do lado servidor rsyslog vamos configurar nosso mikrotik
+
+# Mikrotik
+
+1 - Agora, em nosso mikrotik vamos configurar o `logging`
+
+![image](https://user-images.githubusercontent.com/37910997/151671058-de304ef1-44e9-43bd-ab0b-ca890fbbe3b2.png)
+
+Lembre-se de trocar `IP_DO_SERVIDOR_RSYSLOG` pelo o IP do servidor que ira receber os logs vindo do mikrotik
 
 
 
