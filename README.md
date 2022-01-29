@@ -63,6 +63,11 @@ Ok, tudo configurado do lado servidor rsyslog vamos configurar nosso mikrotik
 
 Lembre-se de trocar `IP_DO_SERVIDOR_RSYSLOG` pelo o IP do servidor que ira receber os logs vindo do mikrotik
 
+2 - Depois de configurado o `Action` em `Logging` vamos configurar uma nova regra em `Rules`
+
+![image](https://user-images.githubusercontent.com/37910997/151671168-f5dfc0bf-2f09-4ec5-8ba3-8056eba46c48.png)
+
+3 - Feito isso, vamos para aba de `Firewall` e criar duas regras para `443,80`, voce pode adicionar outras regras para filtrar outras portas ou protocolos.
 
 
 ## Reference
