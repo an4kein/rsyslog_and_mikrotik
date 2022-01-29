@@ -87,6 +87,27 @@ O mesmo sera feito para porta 443
 
 conforme falei anteriormente, outras regras podem ser adicionadas para filtrar ainda mais determinados acessos.
 
+# Analisando o ambiente
+
+Vamos imaginar o seguinte ambiente, voce precisa identificar quem acessou determinado site de porno em determinada hora por exemplo, poderia ser qualquer outra endereco de IP.
+
+primeiro vamos exemplificar um pouco mais..
+
+para identificar o endereco de IP de determinado site, eu posso dar um ping, como por exemplo:
+
+![image](https://user-images.githubusercontent.com/37910997/151671946-142f0f88-e053-4e1a-9470-d27c53e81965.png)
+
+Como voce pode observar, temos o range... se voce pegar o ip mostrado e filtrar no log, pode acontecer de voce nao encontrar :/
+
+Entao, como resolver isso?
+
+Bom,,,, voce pode pesquisar pelo range ou para facilitar ainda mais, basta acessar o seguinte site: https://www.nslookup.io/
+
+![image](https://user-images.githubusercontent.com/37910997/151672007-8d92fd5a-26b7-4413-806a-777466881e6e.png)
+
+
+
+
 ## Reference
 
 https://techlabs.net.br/integrando-mikrotik-com-syslog/
