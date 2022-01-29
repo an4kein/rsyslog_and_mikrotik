@@ -105,6 +105,10 @@ Bom,,,, voce pode pesquisar pelo range ou para facilitar ainda mais, basta acess
 
 ![image](https://user-images.githubusercontent.com/37910997/151672007-8d92fd5a-26b7-4413-806a-777466881e6e.png)
 
+![image](https://user-images.githubusercontent.com/37910997/151672289-a00270e3-dd5a-4ef0-b61b-8aedfcb62f71.png)
+
+![image](https://user-images.githubusercontent.com/37910997/151672310-e87221f0-c843-44ad-a0e5-f5fe59dfebc4.png)
+
 observe que tem varios IPs, mas o range eh o mesmo, lembre-se que as vezes havera ranges diferentes :)
 
 ok.... Vamos ver isso nos logs...
