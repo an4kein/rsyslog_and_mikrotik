@@ -1,1 +1,0 @@
-# Rsyslog + Mikrotik
