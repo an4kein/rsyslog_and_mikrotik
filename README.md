@@ -87,6 +87,13 @@ O mesmo sera feito para porta 443
 
 conforme falei anteriormente, outras regras podem ser adicionadas para filtrar ainda mais determinados acessos.
 
+para pegar qualquer log de qualquer protocolo, basta configurar de acordo com a imagem abaixo:
+
+![image](https://user-images.githubusercontent.com/37910997/151676644-4f580ae5-ded0-4c2c-bd31-9e00ed7617db.png)
+
+![image](https://user-images.githubusercontent.com/37910997/151676648-591f4e12-7f1c-45e0-a9b2-0183d07b0f66.png)
+
+
 # Analisando o ambiente
 
 Vamos imaginar o seguinte ambiente, voce precisa identificar quem acessou determinado site de porno em determinada hora por exemplo, poderia ser qualquer outra endereco de IP.
