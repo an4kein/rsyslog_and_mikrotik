@@ -67,7 +67,18 @@ Lembre-se de trocar `IP_DO_SERVIDOR_RSYSLOG` pelo o IP do servidor que ira receb
 
 ![image](https://user-images.githubusercontent.com/37910997/151671168-f5dfc0bf-2f09-4ec5-8ba3-8056eba46c48.png)
 
-3 - Feito isso, vamos para aba de `Firewall` e criar duas regras para `443,80`, voce pode adicionar outras regras para filtrar outras portas ou protocolos.
+3 - Feito isso, vamos para aba de `Firewall > NAT` e criar duas regras para `443,80`, voce pode adicionar outras regras para filtrar outras portas ou protocolos.
+
+Em NAT vamos configurar as seguintes regras
+
+![image](https://user-images.githubusercontent.com/37910997/151671281-a4ebbab8-faec-40ca-ba99-6c9cea77e3b6.png)
+
+Adicione o seguinte: OBS: no meu caso, essas regras ficaram abaixo as demais ja configuradas :)
+
+![image](https://user-images.githubusercontent.com/37910997/151671328-9c1b441b-81d9-475d-9650-f537cdf27b57.png)
+
+![image](https://user-images.githubusercontent.com/37910997/151671337-86eb8017-0bf5-43c3-b438-44d92dedbd2b.png)
+
 
 
 ## Reference
