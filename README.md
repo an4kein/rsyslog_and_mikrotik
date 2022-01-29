@@ -105,7 +105,24 @@ Bom,,,, voce pode pesquisar pelo range ou para facilitar ainda mais, basta acess
 
 ![image](https://user-images.githubusercontent.com/37910997/151672007-8d92fd5a-26b7-4413-806a-777466881e6e.png)
 
+observe que tem varios IPs, mas o range eh o mesmo, lembre-se que as vezes havera ranges diferentes :)
 
+ok.... Vamos ver isso nos logs...
+
+![image](https://user-images.githubusercontent.com/37910997/151672045-132b119c-ce2b-4dd8-8036-e7e1051b38b8.png)
+
+otimo, vamos melhorar a visualizacao 
+
+![image](https://user-images.githubusercontent.com/37910997/151672087-ecfebd9a-3763-4702-90d2-0b969eb9d941.png)
+ 
+Entao, para filtrar de forma bem """"basicaa""" apenas utilizando o comando `cat` e `grep` podemos identificar o acesso realizado atraves de determinado usuario
+
+![image](https://user-images.githubusercontent.com/37910997/151672142-fd457817-2203-4605-9396-e11351c23205.png)
+
+logico que da para automatizar muito mais essas filtragens, isso eh apenas uma demonstracao e um passo a passo de como configurar um servidor de log com o mikrotik de forma funcional.
+
+
+Ate a proxima :)
 
 
 ## Reference
