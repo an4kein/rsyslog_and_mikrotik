@@ -79,7 +79,13 @@ Adicione o seguinte: OBS: no meu caso, essas regras ficaram abaixo as demais ja 
 
 ![image](https://user-images.githubusercontent.com/37910997/151671337-86eb8017-0bf5-43c3-b438-44d92dedbd2b.png)
 
+O mesmo sera feito para porta 443 
 
+![image](https://user-images.githubusercontent.com/37910997/151671411-e449106b-1306-4632-8b2b-9e787e915441.png)
+
+![image](https://user-images.githubusercontent.com/37910997/151671425-080fa12d-bda2-4bcd-bd72-74b80adec94c.png)
+
+conforme falei anteriormente, outras regras podem ser adicionadas para filtrar ainda mais determinados acessos.
 
 ## Reference
 
