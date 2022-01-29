@@ -113,6 +113,8 @@ observe que tem varios IPs, mas o range eh o mesmo, lembre-se que as vezes haver
 
 ok.... Vamos ver isso nos logs...
 
+![image](https://user-images.githubusercontent.com/37910997/151672463-596f0094-8873-4d16-8ca5-0254d7e670c5.png)
+
 ![image](https://user-images.githubusercontent.com/37910997/151672045-132b119c-ce2b-4dd8-8036-e7e1051b38b8.png)
 
 otimo, vamos melhorar a visualizacao 
